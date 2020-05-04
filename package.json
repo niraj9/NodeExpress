@@ -1,0 +1,23 @@
+{
+  "name": "nodeexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niraj9/NodeExpress.git"
+  },
+  "author": "Nirmal K Rajendran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niraj9/NodeExpress/issues"
+  },
+  "homepage": "https://github.com/niraj9/NodeExpress#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
